@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+auto_charging_ws/log
+auto_charging_ws/install
+auto_charging_ws/build
+auto_charging_ws/devel
